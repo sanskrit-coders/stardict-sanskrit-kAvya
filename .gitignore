@@ -1,0 +1,11 @@
+/.project
+
+*.dict.dz
+*.syn
+*.idx
+*.ifo
+*.babylon_final
+
+# The below is problematic. Let's keep checking them in till we have a better solution.
+#*.tar.gz
+

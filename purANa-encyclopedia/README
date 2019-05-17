@@ -1,0 +1,27 @@
+file petxt2html.sh bash file,  creates babylon and wiki files from pe.txt file; it creates minimum 20 temp files too in same directory for headers , transliterations etc... it will take 15 minutes, as it have to transliterate, organise, hyperlink, pagelink, htmlify, wikify. 
+
+<Poem> tags defined to <blockquote class="pe_padyam">
+<C1>,<C2>,....  are defined into tables <t[rd] class="pe_paTTika"> 
+all other tags were created to organise.
+
+example words : krishna, bhaarata, bharata, puraana, raama, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
