@@ -1,11 +1,3 @@
 https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/Chandas__2017-02-20_22-17-20Z__0MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/bloomfield-vedic-sa__2016-03-11_23-28-54Z__4MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/dcs-frequency__2017-03-18_15-21-37Z__5MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/index-names-mahabharata__2017-06-21_15-26-50Z__2MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/kyv-ts-padasvara__2018-08-14_09-20-17Z__0MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/mahabharata_cultural_index__2016-05-04_17-07-45Z__1MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/purANa-encyclopedia__2017-04-27_19-15-42Z__4MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/purANa-index-dev__2016-03-21_15-38-26Z__1MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/rv-padapATha-dev__2016-03-11_23-28-54Z__2MB.tar.gz
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/rkmath_encyclopedia_of_hinduism__2019-11-08_04-48-00Z__2MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/rv-padasvara-dev__2016-03-11_23-28-54Z__1MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/vedic_index__2017-04-16_11-23-19Z__1MB.tar.gz
