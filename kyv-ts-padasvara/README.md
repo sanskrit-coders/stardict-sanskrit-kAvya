@@ -8,7 +8,7 @@ Data for this file was obtained by the padasvara digitzed and published by paran
   - ख्ष to क्ष
   - थ्स to त्स
   - ऱ् to र्
-  -  to ं
+  - ꣴ to ं
   -  इत.*ः to ः
   - ॒ इत.*ः([॒॑]?)$ to ः$1
   - [॒॑]ꣳ to ं
