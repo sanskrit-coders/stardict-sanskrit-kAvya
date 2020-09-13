@@ -1,0 +1,1 @@
+Unless otherwise specified and unless a 3rd party or book title is explicitly mentioned in the dict name, license may be assumed to be https://creativecommons.org/licenses/by/4.0/
