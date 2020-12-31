@@ -8,5 +8,5 @@ https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/purANa-e
 https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/purANa-index-dev__2020-10-26_11-02-53Z__1MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/rkmath_encyclopedia_of_hinduism__2020-04-26_01-42-43Z__2MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/rv-padapATha-dev__2016-03-11_23-28-54Z__2MB.tar.gz
-https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/rv-padasvara-dev__2016-03-11_23-28-54Z__1MB.tar.gz
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/rv-padasvara-dev__2020-12-31_15-04-19Z__1MB.tar.gz
 https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/tars/vedic_index__2017-04-16_11-23-19Z__1MB.tar.gz
