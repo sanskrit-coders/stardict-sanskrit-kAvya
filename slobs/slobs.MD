@@ -1,0 +1,13 @@
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/Chandas__2021-02-13_16-04-25Z__0MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/bloomfield-vedic-sa__2016-03-11_23-28-54Z__13MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/dcs-frequency__2017-03-18_15-21-37Z__8MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/index-names-mahabharata__2020-10-26_11-02-53Z__2MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/kyv-ts-padasvara__2018-08-14_09-20-17Z__1MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/mahabharata_cultural_index__2020-10-26_11-02-53Z__2MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/ncc__2021-03-02_08-18-07Z__23MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/purANa-encyclopedia__2017-04-27_19-15-42Z__5MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/purANa-index-dev__2020-10-26_11-02-53Z__2MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/rkmath_encyclopedia_of_hinduism__2020-04-26_01-42-43Z__3MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/rv-padapATha-dev__2016-03-11_23-28-54Z__6MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/rv-padasvara-dev__2020-12-31_15-04-19Z__3MB.slob  
+https://github.com/indic-dict/stardict-sanskrit-kAvya/raw/gh-pages/slobs/vedic_index__2017-04-16_11-23-19Z__2MB.slob  
